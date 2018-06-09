@@ -891,7 +891,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .fa-search:before {
   content: "\f002";
 }
-.fa-envelope-o:before {
+.fa-envelope:before {
   content: "\f003";
 }
 .fa-heart:before {
@@ -1498,7 +1498,8 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .fa-envelope:before {
   content: "\f0e0";
 }
-.fa-linkedin:before {
+.fa-
+in:before {
   content: "\f0e1";
 }
 .fa-rotate-left:before,
