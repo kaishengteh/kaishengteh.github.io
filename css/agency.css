@@ -1235,7 +1235,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .fa-retweet:before {
   content: "\f079";
 }
-.fa-shopping-cart:before {
+.fa-sitemap:before {
   content: "\f07a";
 }
 .fa-folder:before {
