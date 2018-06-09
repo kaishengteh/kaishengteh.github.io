@@ -1835,7 +1835,7 @@ in:before {
 .fa-gbp:before {
   content: "\f154";
 }
-.fa-dollar:before,
+.fa-dollar-sign:before,
 .fa-usd:before {
   content: "\f155";
 }
