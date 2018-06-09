@@ -1253,7 +1253,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .fa-bar-chart-o:before {
   content: "\f080";
 }
-.fa-twitter-square:before {
+.fa-gmail-square:before {
   content: "\f081";
 }
 .fa-facebook-square:before {
@@ -1323,7 +1323,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .fa-phone-square:before {
   content: "\f098";
 }
-.fa-twitter:before {
+.fa-gmail:before {
   content: "\f099";
 }
 .fa-facebook:before {
