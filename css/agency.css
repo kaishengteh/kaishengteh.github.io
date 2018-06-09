@@ -980,7 +980,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .fa-list-alt:before {
   content: "\f022";
 }
-.fa-lock:before {
+.fa-dollar-sign:before {
   content: "\f023";
 }
 .fa-flag:before {
