@@ -8,7 +8,7 @@
     top: 0;
     bottom: 0;
     left: 40px;
-    width: 2px;
+    width: 0px;
     margin-left: -1.5px;
     content: '';
     background-color: $gray-200;
@@ -102,7 +102,7 @@
 @media(min-width:768px) {
   .timeline {
     &:before {
-      left: 50%;
+      left: -1000%;
     }
     > li {
       min-height: 100px;
