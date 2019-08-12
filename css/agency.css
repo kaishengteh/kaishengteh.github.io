@@ -400,10 +400,10 @@ header.masthead .intro-text .intro-heading {
   top: 0;
   bottom: 0;
   left: 40px;
-  width: 2px;
+  width: 0px;
   margin-left: -1.5px;
   content: '';
-  background-color: #f0e9eb;
+  background-color: #e9ecef;
 }
 
 .timeline > li {
